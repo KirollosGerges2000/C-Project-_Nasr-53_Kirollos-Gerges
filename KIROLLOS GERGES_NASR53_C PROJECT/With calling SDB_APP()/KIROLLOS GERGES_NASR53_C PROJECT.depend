@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1682985339 source:c:\users\kerollos\desktop\kirollos gerges_nasr53_c project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"SDB.h"
+	"STD.h"
+
+1682985447 source:c:\users\kerollos\desktop\kirollos gerges_nasr53_c project\sdbapp.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"SDB.h"
+	"STD.h"
+
+1682985053 c:\users\kerollos\desktop\kirollos gerges_nasr53_c project\sdb.h
+	"STD.H"
+
+1682983888 c:\users\kerollos\desktop\kirollos gerges_nasr53_c project\std.h
+
